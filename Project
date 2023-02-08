@@ -111,7 +111,7 @@ void loop() {
 
   delay(10);
 
-    // If you dont get proper movements of your robot then alter the pin numbers
+   
 
   if (distance > 19)            
 
